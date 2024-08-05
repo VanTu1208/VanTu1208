@@ -18,7 +18,7 @@
 
 ###  [Lesson 3 - Interrupt](Lesson%203%20-%20Interrupt/)
 
-- [`Timer`](Lesson%203%20-%20Interrupt/Timer.c)
+- [`Timer`](Lesson%203%20-%20Interrupt/Timer.c) [YouTube Link](https://www.youtube.com/watch?v=xY8vP6h6P9Q)
 
 ###  [Lesson 4 - SPI](Lesson%204%20-%20SPI/)
 ####  [   SPI Hardware](Lesson%204%20-%20SPI/SPI%20Hardware/)
