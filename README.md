@@ -2,6 +2,11 @@
 <font size="10">**Name:** Le Van Tu</font>  
 <font size="10">**Birth:** 2003 </font>  
 <font size="10">**University:** HCMUTE</font>
-## Thư Mục và Tệp
 
-- [Hướng dẫn sử dụng](Lesson 1 - Register/BlinkLED.c)
+# Dự Án Của Tôi
+
+Chào mừng bạn đến với dự án của tôi!
+
+## Tệp Quan Trọng
+
+- [Xem Tệp `BlinkLED.c`](Lesson%201%20-%20Register/BlinkLED.c)
