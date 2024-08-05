@@ -1,28 +1,29 @@
-<font size="10" color="black"><b>Course:</b> Embedded in Automotive T7</font>  
-<font size="10" color="black"><b>Name:</b> Le Van Tu</font>  
-<font size="10" color="black"><b>Birth:</b> 2003</font>  
-<font size="10" color="black"><b>University:</b> HCMUTE</font>
+<font size="10">**Course:** Embedded in Automotive T7</font>  
+<font size="10">**Name:** Le Van Tu</font>  
+<font size="10">**Birth:** 2003 </font>  
+<font size="10">**University:** HCMUTE</font>
 
-## <span style="color:black;">My Lesson</span>
+## My Lesson
 
-### <a href="Lesson%201%20-%20Register/" style="text-decoration:none; color:black;">Lesson 1 - Register</a>
 
-- <a href="Lesson%201%20-%20Register/BlinkLED.c" style="text-decoration:none; color:black;">BlinkLED</a>
-- <a href="Lesson%201%20-%20Register/ToggleLED_Button.c" style="text-decoration:none; color:black;">ToggleLED_Button</a>
+###  [Lesson 1 - Register](Lesson%201%20-%20Register/)
 
-### <a href="Lesson%202%20-%20GPIO/" style="text-decoration:none; color:black;">Lesson 2 - GPIO</a>
+- [`BlinkLED`](Lesson%201%20-%20Register/BlinkLED.c)
+- [`ToggleLED_Button`](Lesson%201%20-%20Register/ToggleLED_Button.c)
 
-- <a href="Lesson%202%20-%20GPIO/BlinkLED.c" style="text-decoration:none; color:black;">BlinkLED</a>
-- <a href="Lesson%202%20-%20GPIO/chaseLEDn.c" style="text-decoration:none; color:black;">ChaseLED</a>
+###  [Lesson 2 - GPIO](Lesson%202%20-%20GPIO/)
 
-### <a href="Lesson%203%20-%20Interrupt/" style="text-decoration:none; color:black;">Lesson 3 - Interrupt</a>
+- [`BlinkLED`](Lesson%202%20-%20GPIO/BlinkLED.c)
+- [`ChaseLED`](Lesson%202%20-%20GPIO/chaseLEDn.c)
 
-- <a href="Lesson%203%20-%20Interrupt/Timer.c" style="text-decoration:none; color:black;">Timer</a>
+###  [Lesson 3 - Interrupt](Lesson%203%20-%20Interrupt/)
 
-### <a href="Lesson%204%20-%20SPI/" style="text-decoration:none; color:black;">Lesson 4 - SPI</a>
-#### <a href="Lesson%204%20-%20SPI/SPI%20Hardware/" style="text-decoration:none; color:black;">SPI Hardware</a>
-- <a href="Lesson%204%20-%20SPI/SPI%20Hardware/Master.c" style="text-decoration:none; color:black;">Master</a>
-- <a href="Lesson%204%20-%20SPI/SPI%20Hardware/Slave.c" style="text-decoration:none; color:black;">Slave</a>
-#### <a href="Lesson%204%20-%20SPI/SPI%20Software/" style="text-decoration:none; color:black;">SPI Software</a>
-- <a href="Lesson%204%20-%20SPI/SPI%20Software/Master.c" style="text-decoration:none; color:black;">Master</a>
-- <a href="Lesson%204%20-%20SPI/SPI%20Software/Slave.c" style="text-decoration:none; color:black;">Slave</a>
+- [`Timer`](Lesson%203%20-%20Interrupt/Timer.c)
+
+###  [Lesson 4 - SPI](Lesson%204%20-%20SPI/)
+####  [   SPI Hardware](Lesson%204%20-%20SPI/SPI%20Hardware/)
+- [`Master`](Lesson%204%20-%20SPI/SPI%20Hardware/Master.c)
+- [`Slave`](Lesson%204%20-%20SPI/SPI%20Hardware/Slave.c)
+####  [   SPI Software](Lesson%204%20-%20SPI/SPI%20Software/)
+- [`Master`](Lesson%204%20-%20SPI/SPI%20Software/Master.c)
+- [`Slave`](Lesson%204%20-%20SPI/SPI%20Software/Slave.c)
