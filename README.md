@@ -1,2 +1,2 @@
-<font size="5">Lê Văn Tú</font>
+<font weight="bold" size="5">Lê Văn Tú</font>
 
