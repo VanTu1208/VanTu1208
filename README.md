@@ -1,1 +1,3 @@
-**Lê Văn Tú**  endl **Course: Embedded in Automotive T7**
+**Lê Văn Tú**
+**Course: Embedded in Automotive T7**
+
