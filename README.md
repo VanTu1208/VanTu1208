@@ -1,2 +1,2 @@
-"Lê Văn Tú" \n
-"Course: Embedded in Automotive T7 " 
+**Lê Văn Tú**
+Course: Embedded in Automotive T7
