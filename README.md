@@ -1,2 +1,2 @@
-"# VanTu1208" 
-"LeVanTu" 
+"Lê Văn Tú" 
+"Course: Embedded in Automotive T7 " 
