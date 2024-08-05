@@ -9,4 +9,4 @@ Chào mừng bạn đến với dự án của tôi!
 
 ## Tệp Quan Trọng
 
-- [Xem Tệp `BlinkLED.c`](Lesson%201%20-%20Register/BlinkLED.c)
+- [Xem Tệp `BlinkLED.c`]
