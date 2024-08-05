@@ -1,2 +1,2 @@
 **Lê Văn Tú**
-Course: Embedded in Automotive T7
+**Course: Embedded in Automotive T7**
